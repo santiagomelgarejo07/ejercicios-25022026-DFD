@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+"Ingrese tres numeros"
+5
+1
+8
+n1,n2,n3
+7
+0
+1
+5
+n1>n2
+7
+0
+1
+5
+n2>n3
+7
+1
+1
+5
+n3>n1
+4
+1
+25
+n3, " es el numero mayor"
+13
+13
+13
+4
+1
+24
+n2," es el numero mayor"
+13
+13
+7
+0
+1
+5
+n1>n3
+4
+1
+24
+n3," es el numero mayor"
+13
+4
+1
+24
+n1," es el numero mayor"
+13
+13
+7
+0
+1
+5
+n1<n2
+7
+0
+1
+5
+n2<n3
+7
+1
+1
+5
+n3<n1
+4
+1
+24
+n3," es el numero menor"
+13
+13
+13
+4
+1
+24
+n2," es el numero menor"
+13
+13
+7
+0
+1
+5
+n1<n3
+4
+1
+24
+n3," es el numero menor"
+13
+4
+1
+24
+n1," es el numero menor"
+13
+13
+1
